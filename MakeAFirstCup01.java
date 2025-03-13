@@ -1,7 +1,7 @@
 //Work on project. Stage 1/6:Make a first cup
 package machine;
 
-public class CoffeeMachine {
+public class MakeAFirstCup01 {
     public static void main(String[] args) {
         System.out.println("Starting to make a coffee");
         System.out.println("Grinding coffee beans");
